@@ -1,0 +1,36 @@
+
+
+.lead {
+    font-family: Arial, sans-serif;
+    border-radius: 2px;
+    
+}
+
+.prueba{
+    background-color:red;
+}
+
+.color{
+    background: #ef32d9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #89fffd, #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #89fffd, #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 24px;
+    z-index: 1000;
+  }
+  
+  .whatsapp-float i {
+    margin-top: 17px;
+  }
