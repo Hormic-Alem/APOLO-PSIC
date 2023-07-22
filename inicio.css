@@ -1,9 +1,17 @@
-
+.online {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 23px;
+}
 
 .lead {
     font-family: Arial, sans-serif;
     border-radius: 2px;
     
+}
+
+.portada {
+    color: black;
 }
 
 .prueba{
@@ -33,4 +41,15 @@
   
   .whatsapp-float i {
     margin-top: 17px;
+  }
+
+
+  .fuente{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  .sobre-mi{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
   }
